@@ -1,1 +1,2 @@
-# Hello-Kitty_timer
+# Hello-Kitty_timer (First  basic version)
+soon :)
